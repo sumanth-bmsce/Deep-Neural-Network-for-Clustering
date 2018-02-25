@@ -51,6 +51,16 @@ Let :
 
 ![res2](https://github.com/sumanth-bmsce/Deep-Neural-Network-for-Clustering/blob/master/r_result.png)</br>
 
+<h3> References </h3>
+
+[1] P. Vincent, H. Larochelle, Y. Bengio, P.A. Manzagol: Extracting and
+   Composing Robust Features with Denoising Autoencoders, ICML'08, 1096-1103,
+   2008</br>
+[2] Y. Bengio, P. Lamblin, D. Popovici, H. Larochelle: Greedy Layer-Wise
+   Training of Deep Networks, Advances in Neural Information Processing
+   Systems 19, 2007</br>
+[3] https://github.com/lisa-lab
+
 
 
 
