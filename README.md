@@ -47,6 +47,12 @@ Let :
 
 <h3> Results Screenshots </h3>
 
+![res1](https://github.com/sumanth-bmsce/Deep-Neural-Network-for-Clustering/blob/master/r_error.png)</br>
+
+![res2](https://github.com/sumanth-bmsce/Deep-Neural-Network-for-Clustering/blob/master/r_result.png)</br>
+
+
+
 
 
 
